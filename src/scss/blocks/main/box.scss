@@ -1,0 +1,105 @@
+.box {
+  padding-top: 100px;
+}
+
+.box-subscribe {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.subscribe {
+  background: #F13C6E;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 49%;
+  padding: 35px 45px 35px 40px;
+}
+
+.our-shops {
+  background: #F13C6E;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 49%;
+  padding: 35px 45px 35px 40px;
+}
+
+.subscribe-text {
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+
+.subscribe-text__one {
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+
+.subscribe-input {
+  background: #FFFFFF;
+  border-radius: 30px;
+  border: none;
+  width: 225px;
+  height: 35px;
+  font-family: 'Roboto',sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #C4C4C4;
+}
+
+.subscribe-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.subscribe-button {
+  background: #F13C6E;
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 30px;
+  width: 170px;
+  height: 35px;
+}
+
+@media (max-width: 900px) {
+  .box-subscribe {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+  }
+  .subscribe {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .our-shops {
+    display: flex;
+    width: 100%;
+
+  }
+}
+@media (max-width: 570px) {
+  .subscribe {
+    flex-direction: column;
+  }
+  .our-shops {
+    flex-direction: column;
+  }
+  .subscribe-one {
+    margin-bottom: 20px;
+  }
+}

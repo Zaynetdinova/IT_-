@@ -1,0 +1,13 @@
+@import "top-line";
+@import "second-line";
+@import "second";
+@import "line-two";
+@import "line";
+
+@media (max-width: 760px) {
+  .header {
+    display: none;
+  }
+}
+
+

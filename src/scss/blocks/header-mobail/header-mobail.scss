@@ -1,0 +1,9 @@
+@import "burger-menu__button";
+@import "second__mobail";
+@import "burger-menu__nav";
+
+@media (min-width: 761px) {
+  .header-mobail {
+    display: none;
+  }
+}

@@ -1,0 +1,49 @@
+.sale {
+  background-image: url("../img/sale.png");
+  width: 100%;
+  height: 604px;
+  background-position: center;
+  background-size: cover;
+  padding: 0 12px;
+}
+
+.group {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.group-title {
+  font-family: 'Roboto',sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+}
+
+.group-text {
+  font-family: 'Roboto',sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FFFFFF;
+  margin-bottom: 42px;
+}
+
+.two-line__button {
+  width: 170px;
+  height: 40px;
+  background: #F13C6E;
+  border: 2px solid #FFFFFF;
+  border-radius: 42px;
+}
+
+.text {
+  font-family: 'Roboto',sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  align-items: center;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+}
