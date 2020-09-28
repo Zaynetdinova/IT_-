@@ -20,7 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b75fa34-551b-46a0-b3c5-9fd9f9b50403" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/YouTube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/avto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/facebook-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/impuls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/sale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/vk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +74,7 @@
       <updated>1601278376418</updated>
       <workItem from="1601278377920" duration="553000" />
       <workItem from="1601281223632" duration="831000" />
-      <workItem from="1601282531450" duration="777000" />
+      <workItem from="1601282531450" duration="1090000" />
     </task>
     <servers />
   </component>
